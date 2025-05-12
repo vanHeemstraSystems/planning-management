@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+planning-management
+# Planning Management
 
 > Slugline
 
